@@ -5,6 +5,7 @@ class TestGit
 {
 	public:
 		~Test();
+		Test();
 }
 int main(){
 	
