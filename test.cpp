@@ -4,6 +4,7 @@
 class TestGit
 {
 	public:
+		~Test();
 }
 int main(){
 	
